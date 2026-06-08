@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Baahmed
 
-**Decision Scientist | Quantitative Researcher | Operations Research Specialist**
+**Decision Scientist | Quantitative Researcher | Deep Reinforcement Learning | Optimal Execution | Deep Hedging | Portfolio Optimization | Statistical Arbitrage | Quantitative Risk Modeling | Quant Developer | Operations Research \& Data Science**
 
 I bridge the gap between complex stochastic modeling and real-world industrial optimization. Currently, I am focused on developing high-performance financial systems and exploring the application of Deep Reinforcement Learning (DRL) for intelligent operational coordination.
 
@@ -10,13 +10,16 @@ I bridge the gap between complex stochastic modeling and real-world industrial o
 *   **Quantitative Finance:** Statistical Arbitrage, Pairs Trading, and Mean-Reversion models.
 *   **Decision Intelligence:** Prescriptive analytics for supply chain and platform optimization.
 *   **Deep Reinforcement Learning:** Multi-agent systems, PPO, SAC, and TD3 implementations.
-*   **Software Engineering:** High-performance mathematical modeling using modern C++ (20/23) and Python.
+*   **Software Development:** High-performance mathematical modeling using modern C++ (20/23) and Python.
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/stable--baselines3-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📈 Current Focus
 *   🏗️ **Statistical Arbitrage Engine:** Building a modular, high-frequency-ready framework utilizing Ornstein-Uhlenbeck processes.
