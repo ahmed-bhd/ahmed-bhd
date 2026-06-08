@@ -5,11 +5,23 @@
 ---
 I bridge the gap between theoretical stochastic modeling and high-performance industrial applications. My work is built at the intersection of Mathematics, Optimization, Artificial Intelligence and Software Engineering, leveraging Deep Reinforcement Learning (DRL) to solve complex problems.
 
-### Quantitative Research & Engineering
-* **Quantitative Finance:** Deep expertise in Statistical Arbitrage, Pairs Trading, and Mean-Reversion strategies.
-* **Stochastic Modeling & Estimation:** Advanced proficiency in state-space modeling, including Kalman Filter applications, Ornstein-Uhlenbeck processes, and time-series analysis for signal extraction.
-* **Modeling & Backtesting:** End-to-end development of financial models—from raw data pipeline engineering to rigorous backtesting and performance attribution.
-* **Algorithmic Execution:** Building high-performance, modular trading engines using modern C++ and Python for low-latency decision-making.
+<!-- Comments ! -->
+### Expertise & Technical Stack
+
+#### **Research & Quantitative Modeling**
+* **Quantitative Finance & Derivatives:** Deep expertise in Statistical Arbitrage, Pairs Trading, Mean-Reversion, Derivatives pricing (Black-Scholes, Monte Carlo), XVA, and Portfolio Optimization.
+* **Stochastic Modeling & Estimation:** Advanced proficiency in stochastic calculus, state-space modeling (Kalman Filters), Ornstein-Uhlenbeck processes, and time-series analysis for signal extraction.
+* **Statistical Analysis:** Statistical inference, hypothesis testing, feature engineering, and robust model performance evaluation.
+* **Risk & Analytics:** Calculation of risk metrics (VaR, Greeks, stress testing) and large-scale dataset analysis.
+
+#### **Machine Learning & Decision Science**
+* **Deep Reinforcement Learning (DRL):** Designing and training intelligent agents (PPO, SAC, A2C, DQN) for complex decision-making and optimization.
+* **Predictive Modeling:** Supervised/Unsupervised Learning, forecasting, model evaluation, cross-validation, and hyperparameter tuning.
+
+#### **Engineering & Execution**
+* **High-Performance Development:** End-to-end development of modular, high-performance engines using **Modern C++ (C++20)** and **Python** for low-latency decision-making.
+* **Data Pipelines:** Designing and building end-to-end financial data pipelines from raw ingestion to rigorous backtesting and attribution.
+* **Infrastructure:** Proficiency in SQL, PL/SQL, Linux environments, Git, and High-Performance Computing (HPC) workflows.
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
