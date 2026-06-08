@@ -10,6 +10,7 @@ I bridge the gap between theoretical stochastic modeling and high-performance in
 
 #### **Research & Quantitative Modeling**
 * **Quantitative Finance & Derivatives:** Deep expertise in Statistical Arbitrage, Pairs Trading, Mean-Reversion, Derivatives pricing (Black-Scholes, Monte Carlo), XVA, and Portfolio Optimization.
+* **Operations Research & Optimization:** Advanced proficiency in Linear/Non-linear programming, combinatorial optimization, and prescriptive analytics for intelligent resource allocation and system coordination.
 * **Stochastic Modeling & Estimation:** Advanced proficiency in stochastic calculus, state-space modeling (Kalman Filters), Ornstein-Uhlenbeck processes, and time-series analysis for signal extraction.
 * **Statistical Analysis:** Statistical inference, hypothesis testing, feature engineering, and robust model performance evaluation.
 * **Risk & Analytics:** Calculation of risk metrics (VaR, Greeks, stress testing) and large-scale dataset analysis.
