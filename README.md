@@ -1,10 +1,9 @@
-# 👋 Hello, I'm Ahmed Baahmed
+# Hello, I'm Ahmed Baahmed
 
 **Decision Scientist | Quantitative Researcher | Deep Reinforcement Learning | Optimal Execution | Deep Hedging | Portfolio Optimization | Statistical Arbitrage | Quantitative Risk Modeling | Quant Developer | Operations Research \& Data Science**
 
 ---
-I bridge the gap between theoretical stochastic modeling and high-performance industrial applications. My work is built at the intersection of mathematics, optimization, and software development, leveraging Deep Reinforcement Learning (DRL) to solve complex algorithmic problems in quantitative finance.
----
+I bridge the gap between theoretical stochastic modeling and high-performance industrial applications. My work is built at the intersection of Mathematics, Optimization, Artificial Intelligence and Software Development, leveraging Deep Reinforcement Learning (DRL) to solve complex problems.
 
 ### 📊 Quantitative Research & Engineering
 * **Quantitative Finance:** Deep expertise in Statistical Arbitrage, Pairs Trading, and Mean-Reversion strategies.
@@ -26,6 +25,6 @@ I bridge the gap between theoretical stochastic modeling and high-performance in
 * 🎓 **Academic Background:**
     * **P.Graduation** in Applied Mathematics (Financial Mathematics & Stochastic Analysis) | University of Luxembourg
     * **M.Sc.** in Mathematics (Operations Research & Optimization) | UMMTO
-*   [LinkedIn](https://www.linkedin.com/in/ahmed-baahmed/) 
+*   ![LinkedIn](https://www.linkedin.com/in/ahmed-baahmed/) 
 ---
 *Building at the intersection of mathematics, optimization, and code.*
