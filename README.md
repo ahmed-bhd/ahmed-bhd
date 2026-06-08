@@ -25,6 +25,7 @@ I bridge the gap between theoretical stochastic modeling and high-performance in
 * 🎓 **Academic Background:**
     * **P.Graduation** in Applied Mathematics (Financial Mathematics & Stochastic Analysis) | University of Luxembourg
     * **M.Sc.** in Mathematics (Operations Research & Optimization) | UMMTO
-*   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-baahmed/)
+      
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-baahmed/)
 ---
 *Building at the intersection of Mathematics, Optimization, and Code.*
