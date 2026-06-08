@@ -6,11 +6,11 @@ I bridge the gap between complex stochastic modeling and real-world industrial o
 
 ---
 
-### 🚀 Research & Professional Interests
-*   **Quantitative Finance:** Statistical Arbitrage, Pairs Trading, and Mean-Reversion models.
-*   **Decision Intelligence:** Prescriptive analytics for supply chain and platform optimization.
-*   **Deep Reinforcement Learning:** Multi-agent systems, PPO, SAC, and TD3 implementations.
-*   **Software Development:** High-performance mathematical modeling using modern C++ (20/23) and Python.
+### 📊 Quantitative Research & Engineering
+* **Quantitative Finance:** Deep expertise in Statistical Arbitrage, Pairs Trading, and Mean-Reversion strategies.
+* **Stochastic Modeling & Estimation:** Advanced proficiency in state-space modeling, including Kalman Filter applications, Ornstein-Uhlenbeck processes, and time-series analysis for signal extraction.
+* **Modeling & Backtesting:** End-to-end development of financial models—from raw data pipeline engineering to rigorous backtesting and performance attribution.
+* **Algorithmic Execution:** Building high-performance, modular trading engines using modern C++ and Python for low-latency decision-making.
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
