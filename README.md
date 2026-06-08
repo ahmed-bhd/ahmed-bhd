@@ -2,8 +2,8 @@
 
 **Decision Scientist | Quantitative Researcher | Deep Reinforcement Learning | Optimal Execution | Deep Hedging | Portfolio Optimization | Statistical Arbitrage | Quantitative Risk Modeling | Quant Developer | Operations Research \& Data Science**
 
-I bridge the gap between complex stochastic modeling and real-world industrial optimization. Currently, I am focused on developing high-performance financial systems and exploring the application of Deep Reinforcement Learning (DRL) for intelligent operational coordination.
 
+I bridge the gap between theoretical stochastic modeling and high-performance industrial applications. My work is built at the intersection of mathematics, optimization, and software development, leveraging Deep Reinforcement Learning (DRL) to solve complex algorithmic problems in quantitative finance.
 ---
 
 ### 📊 Quantitative Research & Engineering
@@ -24,8 +24,8 @@ I bridge the gap between complex stochastic modeling and real-world industrial o
 ### 📈 Current Focus
 * 🏗️ **Statistical Arbitrage Engine:** Developing a modular, high-performance execution framework utilizing Ornstein-Uhlenbeck (OU) processes for statistical arbitrage.
 * 🎓 **Academic Background:**
-    * **P. Graduation** in Applied Mathematics (Financial Mathematics & Stochastical Analysis) | University of Luxembourg
-    * **M. Sc.** in Mathematics (Operations Research & Optimization) | UMMTO
+    * **P.Graduation** in Applied Mathematics (Financial Mathematics & Stochastic Analysis) | University of Luxembourg
+    * **M.Sc.** in Mathematics (Operations Research & Optimization) | UMMTO
 *   [LinkedIn](https://www.linkedin.com/in/ahmed-baahmed/) 
 ---
 *Building at the intersection of mathematics, optimization, and code.*
