@@ -22,11 +22,10 @@ I bridge the gap between complex stochastic modeling and real-world industrial o
 ![Stable-Baselines3](https://img.shields.io/badge/stable--baselines3-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📈 Current Focus
-*   🏗️ **Statistical Arbitrage Engine:** Building a modular, high-frequency-ready framework utilizing Ornstein-Uhlenbeck processes.
-*   🎓 **PhD Research:** Management Science and Engineering at Zhejiang University.
-
-### 🔗 Connect With Me
-*   [LinkedIn](https://linkedin.com/in/yourprofile) | [Academic CV](your-link-here) | [ResearchGate/Scholar](your-link-here)
-
+* 🏗️ **Statistical Arbitrage Engine:** Developing a modular, high-performance execution framework utilizing Ornstein-Uhlenbeck (OU) processes for statistical arbitrage.
+* 🎓 **Academic Background:**
+    * **P. Graduation** in Applied Mathematics (Financial Mathematics & Stochastical Analysis) | University of Luxembourg
+    * **M. Sc.** in Mathematics (Operations Research & Optimization) | UMMTO
+*   [LinkedIn](https://www.linkedin.com/in/ahmed-baahmed/) 
 ---
 *Building at the intersection of mathematics, optimization, and code.*
