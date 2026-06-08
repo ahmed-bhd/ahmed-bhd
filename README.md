@@ -28,4 +28,4 @@ I bridge the gap between theoretical stochastic modeling and high-performance in
       
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-baahmed/)
 ---
-*Building at the intersection of Mathematics, Optimization, and Code.*
+*Building at the intersection of Mathematics, Optimization, Artificial Intelligence and Code.*
