@@ -2,7 +2,7 @@
 
 **Decision Scientist | Quantitative Researcher | Deep Reinforcement Learning | Optimal Execution | Deep Hedging | Portfolio Optimization | Statistical Arbitrage | Quantitative Risk Modeling | Quant Developer | Operations Research \& Data Science**
 
-
+---
 I bridge the gap between theoretical stochastic modeling and high-performance industrial applications. My work is built at the intersection of mathematics, optimization, and software development, leveraging Deep Reinforcement Learning (DRL) to solve complex algorithmic problems in quantitative finance.
 ---
 
