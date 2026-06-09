@@ -34,8 +34,8 @@ I bridge the gap between theoretical stochastic modeling and high-performance in
 ![Stable-Baselines3](https://img.shields.io/badge/stable--baselines3-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Current Focus
-* 🏗️ **Statistical Arbitrage Engine:** Developing a modular, high-performance execution framework for statistical arbitrage.
-* 🎓 **Academic Background:**
+* **Statistical Arbitrage Engine:** Developing a modular, high-performance execution framework for statistical arbitrage.
+* **Academic Background:**
     * **P. Graduation** in Applied Mathematics (Financial Mathematics & Stochastic Analysis) | University of Luxembourg
     * **M.Sc.** in Mathematics (Operations Research & Optimization) | UMMTO
       
