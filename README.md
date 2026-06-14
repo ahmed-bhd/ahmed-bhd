@@ -59,7 +59,7 @@ I formulate real-world logistics, supply chain, and resource allocation problems
 
 - **Vehicle Routing with Real-Time Constraints:** Extending CVRP to include time windows and dynamic demand
 - **Production Planning Dashboard:** Interactive visualization of optimal production schedules
-- **Learning:** German (A2/B1 → B2) for professional integration in Germany
+- **Learning:** German (A2/B1 → B2).
 
 ---
 
