@@ -57,8 +57,7 @@ I formulate real-world logistics, supply chain, and resource allocation problems
 
 ### Current Focus
 
-- **Vehicle Routing with Real-Time Constraints:** Extending CVRP to include time windows and dynamic demand
-- **Production Planning Dashboard:** Interactive visualization of optimal production schedules
+- **Branch & Bound Solver from Scratch** and **Column Generation for Cutting Stock Problem:** using C++ ...
 - **Learning:** German (A2/B1 → B2).
 
 ---
