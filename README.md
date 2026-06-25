@@ -17,7 +17,7 @@ I formulate real-world logistics, supply chain, and resource allocation problems
 
 #### **Programming & Solvers**
 - **Python:** PuLP, OR-Tools, GurobiPy, Pyomo, pandas, NumPy, matplotlib
-- **C++ (C++17/20):** Performance-critical optimization components, STL, multithreading
+- **C++ (C++20/23):** Performance-critical optimization components, STL, multithreading
 - **Solvers:** Gurobi, OR-Tools, SCIP
 - **Infrastructure:** SQL, Docker, Linux, Git, HPC workflows
 
