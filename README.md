@@ -1,6 +1,6 @@
-### Hello, I'm Ahmed Baahmed
+### Hey! I'm Ahmed Baahmed
 
-**Operations Research Engineer | Optimization Specialist | MILP/LP | Python & C++ | Production Planning | Vehicle Routing**
+**Building at the intersection of Stochastic Analysis, Operations Research, Optimization, Artificial Intelligence and Code (Python & C++).**
 
 ---
 I formulate real-world logistics, supply chain, and resource allocation problems into optimization frameworks. My work sits at the intersection of Mathematics, Operations Research, AI, and Code — solving problems with MILP/LP, constraint programming, and heuristic methods.
