@@ -1,6 +1,6 @@
 ### Hey! I'm Ahmed Baahmed
 
-**Building at the intersection of Stochastic Analysis, Operations Research, Optimization, Artificial Intelligence and Code (Python & C++).**
+**Building at the intersection of Mathematics, Statistics, Operations Research, Optimization, Quantitative Finance, Artificial Intelligence, and Software Engineering (C++, Python).**
 
 ---
 I formulate real-world logistics, supply chain, and resource allocation problems into optimization frameworks. My work sits at the intersection of Mathematics, Operations Research, AI, and Code — solving problems with MILP/LP, constraint programming, and heuristic methods.
