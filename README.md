@@ -1,6 +1,6 @@
 ### Hey! I'm Ahmed Baahmed
 
-**Building at the intersection of Mathematics, Statistics, Operations Research, Optimization, Quantitative Finance, Artificial Intelligence, and Software Engineering (C++, Python).**
+**Building at the intersection of Mathematics, Statistics, Operations Research, Optimization, Quantitative Finance, Artificial Intelligence, and Analytics Engineering.**
 
 ---
 I formulate real-world logistics, supply chain, and resource allocation problems into optimization frameworks. My work sits at the intersection of Mathematics, Operations Research, AI, and Code — solving problems with MILP/LP, constraint programming, and heuristic methods.
@@ -19,7 +19,7 @@ I formulate real-world logistics, supply chain, and resource allocation problems
 - **Python:** PuLP, OR-Tools, GurobiPy, Pyomo, pandas, NumPy, matplotlib
 - **C++ (C++20/23):** Performance-critical optimization components, STL, multithreading
 - **Solvers:** Gurobi, OR-Tools, SCIP
-- **Infrastructure:** SQL, Docker, Linux, Git, HPC workflows
+- **Infrastructure:** SQL, DBT, Docker, Linux, Git, HPC workflows
 
 #### **Machine Learning**
 - **Forecasting:** ARIMA, Prophet, XGBoost for demand prediction
