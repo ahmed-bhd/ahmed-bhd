@@ -1,4 +1,4 @@
-### Hey! I'm Ahmed Baahmed
+### Hey!
 
 **Building at the intersection of Mathematics, Statistics, Operations Research, Optimization, Quantitative Finance, Artificial Intelligence, and Analytics Engineering.**
 
