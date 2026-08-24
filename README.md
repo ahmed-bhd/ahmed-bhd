@@ -1,6 +1,6 @@
 ### Hey!
 
-**Building at the intersection of Mathematics, Statistics, Operations Research, Optimization, Quantitative Finance, Artificial Intelligence, and Analytics Engineering.**
+**Building at the intersection of Mathematics, Statistics, Operations Research, Optimization, Quantitative Finance, Analytics Engineering, and Artificial Intelligence.**
 
 ---
 I formulate real-world logistics, supply chain, and resource allocation problems into optimization frameworks. My work sits at the intersection of Mathematics, Operations Research, Analytics Engineering, AI, and Code — transforming raw data pipelines into robust analytical models and solving complex problems with MILP/LP, constraint programming, and heuristic methods.
@@ -21,7 +21,8 @@ I formulate real-world logistics, supply chain, and resource allocation problems
 - **Data Pipelines:** Designing reliable ETL/ELT workflows and orchestration with **Apache Airflow** to bridge raw data sources with downstream analytical engines and optimization models.
 
 #### **Programming & Solvers**
-- **Python:** PuLP, OR-Tools, GurobiPy, Pyomo, pandas, NumPy, matplotlib, R
+- **Python:** PuLP, OR-Tools, GurobiPy, Pyomo, pandas, NumPy, matplotlib,
+- **R** and **Matlab**
 - **C++ (C++20/23):** Performance-critical optimization components, STL, multithreading
 - **Solvers:** Gurobi, OR-Tools, SCIP
 - **Infrastructure:** SQL, Google BigQuery, Snowflake, dbt, Apache Airflow, Docker, Linux, Git, HPC workflows
